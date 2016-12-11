@@ -1,0 +1,6 @@
+{
+  "name": "quals.2017.volgactf.ru",
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
